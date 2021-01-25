@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<rdf:RDF 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="https://purl.org/dc/elements/1.1">
+
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Laskar_Pelangi">
+			<dc:title>Laskar Pelangi</dc:title>
+			<dc:creator>Andrea Hirata</dc:creator>
+			<dc:publisher>Bentang Pustaka</dc:publisher>
+			<dc:date>2005</dc:date>
+			<dc:type>Roman</dc:type>
+			<dc:Image>https://cdn.gramedia.com/uploads/items/9789793062792_New-Edition-Laskar-Pelangi__w600_hauto.jpg</dc:Image>
+			<dc:description>Pada 1970, di desa Gantong, Pulau Belitung, terdapat sebuah gedung sekolah SD dengan kondisi yang sangat memprihatinkan. Sekolah ini bernama SD Muhammadiyah Gantong dan menjadi satu-satunya tempat bersekolah anak-anak miskin di desa tersebut. SD ini juga terancam ditutup oleh dinas pendidikan setempat karena kekurangan murid. Pemerintah mensyaratkan minimal ada 10 siswa yang bersekolah namun kini hanya ada sembilan siswa yang mendaftar di SD tersebut. Bapak Harfan (Ikranagara) selaku kepala sekolah hampir menyerah tapi Bu Muslimah (Cut Mini) tetap percaya akan ada satu lagi siswa yang mendaftar. Nasib sekolah terselamatkan dengan hadirnya Harun (Jeffry Yanuar), siswa keterbelakangan mental dan Lintang (Ferdian), siswa miskin tapi jenius. Sejak saat itu, Bu Muslimah dengan keikhlasan hati mendidik ke 11 muridnya dengan segala keterbatasan dan menamai mereka dengan julukan anak-anak Laskar Pelangi.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Cinta_Brontosaurus_(buku)">
+			<dc:title>Cinta Brontosaurus</dc:title>
+			<dc:creator>Raditya Dika</dc:creator>
+			<dc:publisher>Gagas Media</dc:publisher>
+			<dc:date>2006</dc:date>
+			<dc:type>Komedi</dc:type>
+			<dc:Image>https://cdn.gramedia.com/uploads/items/9789797808969C_9789797808969.jpg</dc:Image>
+			<dc:description>Dika merupakan seorang penulis. Dia baru saja putus cinta dengan pacarnya, Nina. Sejak kandasnya kisah cinta itu, Dika percaya bahwa cinta bisa kadaluwarsa, bisa mati pada saatnya nanti. Kosasih yang merupakan agen naskah Dika, mencoba untuk membuatnya kembali yakin pada cinta. Kosasih ingin mencontohkan dengan diri dan istrinya Wanda (Tyas Mirasih), yang bisa bertahan lama. Dika mau berusaha, setidaknya mencoba. Usaha ini membawa Dika ke dalam serangkaian perkenalan-perkenalan aneh dengan para perempuan baru dalam hidupnya.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Burung-burung_Manyar">
+			<dc:title>Burung-burung Manyar</dc:title>
+			<dc:creator>Y.B. Mangunwijaya</dc:creator>
+			<dc:publisher>Djambatan</dc:publisher>
+			<dc:date>1981</dc:date>
+			<dc:type>Fiksi-Romantis</dc:type>
+			<dc:Image>https://cdn.gramedia.com/uploads/items/9789797098421_burung-burung-manyar-edisi-revisi.jpg</dc:Image>
+			<dc:description>Berkisah tentang anak manusia yang merasa gagal dalam menjalani kehidupannya karena trauma masa lalunya. Seting cerita zaman modern dengan latar belakang kehidupan masa revolusi (penjajahan Jepang dan Belanda)</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Bumi_Manusia_(novel)">
+			<dc:title>Bumi Manusia</dc:title>
+			<dc:creator>Pramoedya Ananta Toer</dc:creator>
+			<dc:publisher>Hasta Mitra</dc:publisher>
+			<dc:date>1980</dc:date>
+			<dc:type>Fiksi Sejarah</dc:type>
+			<dc:Image>https://cdn.gramedia.com/uploads/items/bumi-manusia-edit.jpg</dc:Image>
+			<dc:description>Yang bisa dan boleh bersekolah di HBS adalah keturunan orang-orang Eropa, khususnya Belanda yang menjajah Indonesia pada masa itu dan keturunan pribumi yang berasal dari golongan ningrat atau pejabat, Minke merupakan perkecualian karena kepandaiannya dalam menulis. Kepandaian menulis Minke mendapat pengakuan dari orang-orang Belanda sehingga banyak sekali koran-koran terbitan negara Belanda yang memuat tulisannya. Novel Bumi Manusia karangan dari penulis legendaris Pramoedya Ananta Toer ini menggambarkan ketidaksenangan teman-teman sekolah Eropanya terhadap Minke karena sikapnya yang revolusioner.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind">
+			<dc:title>Sapiens: A Brief History of Humankind</dc:title>
+			<dc:creator>Yuval Noah Harari</dc:creator>
+			<dc:publisher>Harper</dc:publisher>
+			<dc:date>2014</dc:date>
+			<dc:type>Non-fiksi</dc:type>
+			<dc:Image>https://images-na.ssl-images-amazon.com/images/I/41+lolL22gL._SX314_BO1,204,203,200_.jpg</dc:Image>
+			<dc:description>Menuturkan sejarah singkat Sapiens atau spesies kita umat manusia, dari mulai cikal bakal kelahirannya sampai zaman kita sekarang. Istilah “singkat” itu harus dijelaskan dalam konteks evolusi, yang hitungannya ribuan, jutaan dan miliaran tahun.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Binatangisme">
+			<dc:title>Animal Farm</dc:title>
+			<dc:creator>George Orwell</dc:creator>
+			<dc:publisher>Secker and Warburg</dc:publisher>
+			<dc:date>1945</dc:date>
+			<dc:type>Satir politik</dc:type>
+			<dc:Image>https://inc.mizanstore.com/aassets/img/com_cart/produk/covBT-019.jpg</dc:Image>
+			<dc:description>Mengenai sekelompok hewan yang menggulingkan kekuasaan manusia di sebuah peternakan yang mereka miliki. Para petani manusia ini menindas para hewan. Lalu mereka sendiri mengendalikan peternakan, hanya untuk melihat keadaannya menjadi merosot dan mereka sendiri bertindak semena-mena.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/To_Kill_a_Mockingbird">
+			<dc:title>To Kill a Mockingbird</dc:title>
+			<dc:creator>Harper Lee</dc:creator>
+			<dc:publisher>J. B. Lippincott</dc:publisher>
+			<dc:date>1960</dc:date>
+			<dc:type>Fiksi-Hukum</dc:type>
+			<dc:Image>https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg</dc:Image>
+			<dc:description>Fokus cerita novel tersebut ialah perjuangan seorang pengacara kulit putih dalam membela kliennya yang merupakan kaum kulit hitam. Mengambil latar di sebuah kota fiktif bagian selatan Amerika Serikat sekitar tahun 1930, Harper berhasil menggambarkan dengan sangat jelas ketimpangan sosial yang terjadi akibat rasisme di Amerika.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/The_Selfish_Gene">
+			<dc:title>The Selfish Gene</dc:title>
+			<dc:creator>Richard Dawkins</dc:creator>
+			<dc:publisher>Oxford University Press</dc:publisher>
+			<dc:date>1976</dc:date>
+			<dc:type>Sains Populer</dc:type>
+			<dc:Image>https://images-na.ssl-images-amazon.com/images/I/81w-CD7lYpL.jpg</dc:Image>
+			<dc:description>The Selfish Gene adalah buku mengenai evolusi karya Richard Dawkins. Buku ini dibuat berdasarkan teori George C. Williams dalam bukunya Adaptation and Natural Selection. Dawkins menggunakan istilah "gen egois" sebagai cara untuk mengekspresikan pandangan evolusi berpusat-pada-gen yang menentang pandangan yang terfokus pada organisme dan kelompok, mempopulerkan ide-ide yang dikembangkan pada 1960-an oleh WD Hamilton dan lain-lain. Dari pandangan berpusat-gen, makin terkait secara genetis dua individu, makin masuk akal (pada tingkat gen) bahwa mereka berperilaku kurang egois satu sama lain.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Cosmos_(buku)">
+			<dc:title>Kosmos</dc:title>
+			<dc:creator>Carl Sagan</dc:creator>
+			<dc:publisher>Random House</dc:publisher>
+			<dc:date>1980</dc:date>
+			<dc:type>Sains Populer</dc:type>
+			<dc:Image>https://cdn.gramedia.com/uploads/items/9786024242244_kosmos_1__w600_hauto.jpg</dc:Image>
+			<dc:description>KOSMOS adalah salah satu buku sains paling laris sepanjang sejarah. Dengan prosa jernih memukau, ahli astronomi Carl Sagan mengungkapkan alam semesta yang dihuni suatu bentuk kehidupan yang baru saja mulai berpetualang menjelajahi luasnya antariksa. Kosmos menelusuri empat belas miliar evolusi kosmik yang telah mengubah zat menjadi kesadaran, asal-usul kehidupan, misi wahana antariksa, rupa beraneka planet dan bintang, alur hidup tata surya dan galaksi, sampai awal dan akhir alam semesta itu sendiri.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://aisaidluv.com/2020/02/12/review-buku-guru-aini-karya-andrea-hirata/">
+			<dc:title>Guru Aini</dc:title>
+			<dc:creator>Andrea Hirata</dc:creator>
+			<dc:publisher>Bentang Pustaka</dc:publisher>
+			<dc:date>2020</dc:date>
+			<dc:type>Fiksi</dc:type>
+			<dc:Image>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579485530l/50547900.jpg</dc:Image>
+			<dc:description>Guru Aini berkisah tentang seorang guru bernama Desi yang mengajar matematika di daerah pelosok. Menceritakan Desi memiliki obsesi dan idealisme besar untuk menemukan seorang murid genius matematika, ternyata matematika justru menjadi sumber stres bagi Desi. Apalagi ketika Bu Desi bertemu Aini, seorang anak dengan daya tangkap yang rendah dengan matematika, tetapi memiliki daya juang yang tinggi. Menariknya, konflik yang diangkat adalah bagaimana Desi berusaha mengajarkan matematika kepada Aini.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Sang_Singa,_Sang_Penyihir_dan_Lemari">
+			<dc:title>Sang Singa, Sang Penyihir dan Lemari</dc:title>
+			<dc:creator>C. S. Lewis</dc:creator>
+			<dc:publisher>Geoffrey Bles</dc:publisher>
+			<dc:date>1950</dc:date>
+			<dc:type>Fiksi</dc:type>
+			<dc:Image>https://www.memoriapress.com/wp-content/uploads/2012/03/LionWitchWardrobe.jpg</dc:Image>
+			<dc:description>Sang Singa, Sang Penyihir dan Lemari (bahasa Inggris: The Lion, the Witch and the Wardrobe) adalah novel fantasi karya C. S. Lewis. Buku ini ditulis pada tahun 1950 dan mempunyai nuansa sekitar tahun 1940. Buku ini adalah yang pertama kali ditulis dari ketujuh seri The Chronicles of Narnia. Meskipun buku ini adalah yang pertama kali ditulis, tetapi secara kronologi buku ini adalah buku yang kedua setelah Keponakan Penyihir.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://gradienmediatama.com/buku/kamu-gak-sendiri/">
+			<dc:title>Kamu Gak Sendiri</dc:title>
+			<dc:creator>Syahid Muhammad</dc:creator>
+			<dc:publisher>GradienMediatama</dc:publisher>
+			<dc:date>2019</dc:date>
+			<dc:type>Fiksi-Remaja</dc:type>
+			<dc:Image>https://mojokstore.com/wp-content/uploads/2020/03/Kamu-Gak-Sendiri.jpg</dc:Image>
+			<dc:description>Kita sudah cukup baik membuat orang mengira kita baik-baik saja. Sekarang saatnya jujur, yang kecewa, yang kelelahan, yang gak tahu kapan harus istirahat, kamu boleh marah, boleh menangis, boleh kalau ingin sendiri dulu. Boleh banget untuk perlu bantuan. Kamu gak harus terus baik-baik aja. Gapapa, gapapa, terima, akui, lepasin.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Sebuah_Seni_untuk_Bersikap_Bodo_Amat">
+			<dc:title>Sebuah Seni untuk Bersikap Bodo Amat</dc:title>
+			<dc:creator>Mark Manson</dc:creator>
+			<dc:publisher>HarperOne</dc:publisher>
+			<dc:date>2016</dc:date>
+			<dc:type>Kehidupan</dc:type>
+			<dc:Image>https://mojokstore.com/wp-content/uploads/2018/08/sebuah-seni-untuk-bersikap-bodoh-amat-mojok-store.jpg</dc:Image>
+			<dc:description>Buku ini menceritakan tentang Harles Bokowski seorang pecandu alkohol senang bermain perempuan,pejudi kronis,kasar,kikir,dan tukang utang.Ia bercita-cita menjadi seorang penulis.karya Bukowski selalu di tolak oleh hampir setiap majalah,tetapi hal tersebut tidak membuat nya menyerah ia tetap menulis dan membuat puisi.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://www.routledge.com/Data-Visualization-Made-Simple-Insights-into-Becoming-Visual/Sosulski/p/book/9781138503915#:~:text=Data%20Visualization%20Made%20Simple%20is,in%20today's%20information%2Drich%20world.">
+			<dc:title>Data Visualization Made Simple: Insights into Becoming Visual</dc:title>
+			<dc:creator>Kristen Sosulski</dc:creator>
+			<dc:publisher>ROUTLEDGE</dc:publisher>
+			<dc:date>2018</dc:date>
+			<dc:type>Sains</dc:type>
+			<dc:Image>https://images-na.ssl-images-amazon.com/images/I/41x8GvBH3EL._SX331_BO1,204,203,200_.jpg</dc:Image>
+			<dc:description>Data Visualization Made Simple adalah panduan praktis untuk dasar-dasar, strategi, dan kasus-kasus dunia nyata untuk visualisasi data, keterampilan penting yang diperlukan di dunia yang kaya informasi saat ini.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://openlibrary.telkomuniversity.ac.id/pustaka/19666/structured-computer-organization-edisi-5.html">
+			<dc:title>Structured Computer Organization</dc:title>
+			<dc:creator>Andrew S. Tanenbaun</dc:creator>
+			<dc:publisher>Pearson</dc:publisher>
+			<dc:date>2014</dc:date>
+			<dc:type>Sains</dc:type>
+			<dc:Image>https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/09101.1572.jpg</dc:Image>
+			<dc:description>Buku ini mengambil pendekatan terstruktur dan berlapis modern untuk memahami sistem komputer. Ini sangat mudah diakses - dan telah diperbarui secara menyeluruh untuk mencerminkan teknologi baru yang paling kritis saat ini, termasuk mikroprosesor Pentium II dan UltraSPARC, Windows NT dan Java Virtual Machines.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://ebooks.gramedia.com/id/buku/atomic-habits-perubahan-kecil-yang-memberikan-hasil-luar-biasa">
+			<dc:title>Atomic Habits: Perubahan Kecil yang memberikan hasil luar biasa</dc:title>
+			<dc:creator>James Clear</dc:creator>
+			<dc:publisher>Gramedia Pustaka Utama</dc:publisher>
+			<dc:date>2019</dc:date>
+			<dc:type>Kehidupan</dc:type>
+			<dc:Image>https://ebooks.gramedia.com/ebook-covers/49184/image_highres/ID_AHPK2019MTH09AHP.jpg</dc:Image>
+			<dc:description>Orang mengira ketika Anda ingin mengubah hidup, Anda perlu memikirkan hal-hal besar. Namun pakar kebiasaan terkenal kelas dunia James Clear telah menemukan sebuah cara lain. Ia tahu bahwa perubahan nyata berasal dari efek gabungan ratusan keputusan kecil dari mengerjakan dua push-up sehari, bangun lima menit lebih awal, sampai menahan sebentar hasrat untuk menelepon. Ia menyebut semua tadi atomic habits. Dalam buku terobosan ini, Clear pada hakikatnya mengungkapkan bagaimana perubahan-perubahan sangat remeh ini dapat tumbuh menjadi hasil-hasil yang sangat mengubah hidup.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://penerbitbukudeepublish.com/shop/buku-ajar/">
+			<dc:title>Buku Ajar Matematika Terapan Untuk Teknisi</dc:title>
+			<dc:creator>Moh. Hartono Dkk.</dc:creator>
+			<dc:publisher>deepublish</dc:publisher>
+			<dc:date>2019</dc:date>
+			<dc:type>Sains</dc:type>
+			<dc:Image>https://penerbitbukudeepublish.com/wp-content/uploads/2019/11/Matematika-Terapan_Moh.-Hartono_Netprom-Nurhadi-depan-scaled.jpg</dc:Image>
+			<dc:description>Buku ini berisi materi lengkap Matematika Terapan bagi Teknisi mulai dari materi paling dasar dan fundamental dalam keterampilan menghitung hingga materi Kalkulus yang berisi turunan diferensial dan integral yang sangat bermanfaat bagi para teknisi.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://en.wikipedia.org/wiki/The_Woman_in_White_(novel)">
+			<dc:title>The Woman in White</dc:title>
+			<dc:creator>Wilkie Collins</dc:creator>
+			<dc:publisher>All the Year Round</dc:publisher>
+			<dc:date>1859</dc:date>
+			<dc:type>Fiksi-Misteri</dc:type>
+			<dc:Image>https://m.media-amazon.com/images/I/41EA+W9+HrL.jpg</dc:Image>
+			<dc:description>Novel ini menceritakan seorang guru melukis yang bernama Walter Hartright bertemu wanita misterius berpakaian serba putih, di hari pertama ia pergi mengajar ke Limmeridge house. Saat mereka bertemu dan bercengkramah, Walter kaget karna wanita tersebut membicarakan tentang tempat dan keluarga yang menjadi tujuan walter sebelum walter menanyakan terlebih dahulu dan setelah itu wanita tersebut menghilang.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://en.wikipedia.org/wiki/A_Crime_in_the_Neighborhood">
+			<dc:title>A Crime in the Neighborhood</dc:title>
+			<dc:creator>Suzanne Berne</dc:creator>
+			<dc:publisher>Workman Publishing Company</dc:publisher>
+			<dc:date>1997</dc:date>
+			<dc:type>Fiksi-Misteri</dc:type>
+			<dc:Image>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421307723l/226868.jpg</dc:Image>
+			<dc:description>Berlatar tahun 1972, melawan musim panas yang beruap di pinggiran kota Washington, DC, yang dipenuhi dengungan belalang dan laporan berita terbaru Walter Cronkite tentang Watergate, novel pertama Berne yang sangat terkontrol mengeksplorasi efek dari pembunuhan brutal seorang anak laki-laki pada sebuah komunitas dan pada 10 gadis -tahun, tetangga dari anak yang terbunuh, yang dunianya sendiri hancur berantakan.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://ebooks.gramedia.com/id/buku/sihir-kelam-a-darker-shade-of-magic">
+			<dc:title>Sihir Kelam (A Darker Shade of Magic)</dc:title>
+			<dc:creator>V.E. Schwab</dc:creator>
+			<dc:publisher>Gramedia Pustaka Utama</dc:publisher>
+			<dc:date>2015</dc:date>
+			<dc:type>Fiksi-Fantasi</dc:type>
+			<dc:Image>https://ebooks.gramedia.com/ebook-covers/46810/image_highres/ID_SKDSM2019MTH03SKDSM.jpg</dc:Image>
+			<dc:description>Selamat datang di dunia Kell, tempat kota London memiliki banyak warna: London Kelabu, kotor dan membosankan. London Merah, tempat kehidupan makmur dan sihir. London Putih, kota yang perlahan-lahan mati akibat pertarungan sihir. Dan London Hitam… tempat yang tidak pernah lagi dibicarakan.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Setelah_Pemakaman">
+			<dc:title>Setelah Pemakaman(After the Funeral)</dc:title>
+			<dc:creator>Agatha Christie</dc:creator>
+			<dc:publisher>Dodd, Mead and Company</dc:publisher>
+			<dc:date>1953</dc:date>
+			<dc:type>Fiksi-Misteri</dc:type>
+			<dc:Image>https://images-na.ssl-images-amazon.com/images/I/713qV3bY6hL.jpg</dc:Image>
+			<dc:description>Dari dulu Cora Lansquenet suka bicara melantur dan keluarganya yang terhormat mengabaikan komentar yang diucapkannya setelah pemakaman kakaknya, Richard, "Dia dibunuh, kan?" Mereka ingat lagi komentar itu keesokan harinya, ketika Cora ditemukan terbunuh dengan sebuah kapak dan beberapa hari kemudian, ketika ada orang mengiri sepotong kue pengantin yang telah dicelup arsenik kepada teman serumah Cora.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Pulang">
+			<dc:title>Pulang</dc:title>
+			<dc:creator>Leila S. Chudori</dc:creator>
+			<dc:publisher>Kepustakaan Populer Gramedia</dc:publisher>
+			<dc:date>2013</dc:date>
+			<dc:type>Fiksi-Sejarah</dc:type>
+			<dc:Image>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465061573l/16174176._SX318_.jpg</dc:Image>
+			<dc:description>Pulang merupakan sebuah drama keluarga, persahabatan, cinta dan pengkhianatan berlatar belakang tiga peristiwa bersejarah: Indonesia 30 September 1965, Perancis Mei 1968, dan Indonesia Mei 1998.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Negeri_5_Menara">
+			<dc:title>Negeri 5 Menara</dc:title>
+			<dc:creator>Ahmad Fuadi</dc:creator>
+			<dc:publisher>Gramedia</dc:publisher>
+			<dc:date>2009</dc:date>
+			<dc:type>Roman</dc:type>
+			<dc:Image>https://bulelengkab.go.id/assets/instansikab/72/artikel/resensi-buku-inilah-hebatnya-novel-negeri-5-menara-41.jpg</dc:Image>
+			<dc:description>Novel ini bercerita tentang kehidupan 6 santri dari 6 daerah yang berbeda menuntut ilmu di Pondok Madani Ponorogo Jawa Timur yang jauh dari rumah dan berhasil mewujudkan mimpi menggapai jendela dunia.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Guns,_Germs,_and_Steel">
+			<dc:title>Guns, Germs, and Steel</dc:title>
+			<dc:creator>Jared Diamond</dc:creator>
+			<dc:publisher>W. W. Norton</dc:publisher>
+			<dc:date>1997</dc:date>
+			<dc:type>Sains Sosial</dc:type>
+			<dc:Image>https://m.media-amazon.com/images/I/51-KH9CL1SL.jpg</dc:Image>
+			<dc:description>Buku ini mencoba menjelaskan mengapa peradaban Eurasia (termasuk Afrika Utara) mampu bertahan dan menaklukan bangsa lain, sekaligus berusaha menentang gagasan bahwa hegemoni Eurasia diakibatkan oleh keunggulan intelektual, moral, atau genetik. Diamond menyatakan bahwa kesenjangan kekuatan dan teknologi antara bangsa-bangsa di dunia diakibatkan oleh perbedaan lingkungan.</dc:description>
+		</rdf:Description>
+		
+		<rdf:Description rdf:about="https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything">
+			<dc:title>Misteri-Misteri tentang Ruang dan Waktu (A Short History of Nearly Everything)</dc:title>
+			<dc:creator>Bill Bryson</dc:creator>
+			<dc:publisher>Doubleday, Broadway Books, Gramedia Pustaka Utama(bahasa Indonesia)</dc:publisher>
+			<dc:date>2003</dc:date>
+			<dc:type>Sains Populer</dc:type>
+			<dc:Image>https://images-na.ssl-images-amazon.com/images/I/61vvvyR+TOL.jpg</dc:Image>
+			<dc:description>Bill Bryson menggali misteri-misteri tentang ruang dan waktu serta bagaimana, meski terkesan mustahil, kehidupan dapat hadir di planet luar biasa yang kita tinggali. Kini ia membagi temuan-temuannya dengan kita. Dalam buku yang sangat memikat ini, kamu akan berjumpa dengan beberapa ilmuwan aneh, teori-teori aneh yang menjadi perdebatan sampai lama sekali, juga beberapa penemuan tidak disengaja yang mengubah cara kita memahami sains.</dc:description>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring">
+			<dc:title>The Fellowship of the Ring</dc:title>
+			<dc:creator>J. R. R. Tolkien</dc:creator>
+			<dc:publisher>George Allen and Unwin</dc:publisher>
+			<dc:date>1954</dc:date>
+			<dc:type>Fiksi</dc:type>
+			<dc:Image>https://kbimages1-a.akamaihd.net/1a3242ad-3242-42e2-b5eb-41021cf47c58/1200/1200/False/the-fellowship-of-the-ring-the-greatest-epic-fantasy-adventure-ever-told-the-lord-of-the-rings-book-1.jpg</dc:Image>
+			<dc:description>Bayang-Bayang dari kekuatan gelap mulai merebak kembali, sekali lagi ingin menancapkan taring kekuasaannya ke segala penjuru dunia. Mulai dari dunia manusia, peri, kurcaci, penyihir, hingga dunia para hobbit. Namun bayang-bayang dari kekuatan gelap Sauron itu bergerak dalam keadaan pincang.</dc:description>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://en.wikipedia.org/wiki/Perfume_(novel)">
+			<dc:title>Perfume</dc:title>
+			<dc:creator>Patrick Süskind</dc:creator>
+			<dc:publisher>Diogenes, Alfred A. Knopf, Hamish Hamilton</dc:publisher>
+			<dc:date>1985</dc:date>
+			<dc:type>Fiksi-Misteri</dc:type>
+			<dc:Image>https://images-na.ssl-images-amazon.com/images/I/919FFc2VFFL.jpg</dc:Image>
+			<dc:description>Renouill adalah seorang ahli pembuat parfum yang terobsesi menciptakan parfum paling sempurna meski harus menggunakan cara keji. Ia lahir dari seorang ibu penjual ikan di lingkungan kumuh . Grenouill dibesarkan di sebuah panti asuhan. Ia tumbuh berbeda  karena memiliki indra penciuman yang superior.</dc:description>
+		</rdf:Description>
+</rdf:RDF>
